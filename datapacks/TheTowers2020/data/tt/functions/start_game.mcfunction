@@ -20,16 +20,8 @@ spawnpoint @a[team=blue_team] 0 104 -100
 tp @a[team=red_team] 0 104 100
 spawnpoint @a[team=red_team] 0 104 100
 # Blue armor
-replaceitem entity @e[type=player,team=blue_team] armor.feet leather_boots{display:{color:255},Enchantments:[{id:protection,lvl:2},{id:vanishing_curse,lvl:1}],Unbreakable:1b}
-replaceitem entity @e[type=player,team=blue_team] armor.legs leather_leggings{display:{color:255},Enchantments:[{id:protection,lvl:2},{id:vanishing_curse,lvl:1}],Unbreakable:1b}
-replaceitem entity @e[type=player,team=blue_team] armor.chest leather_chestplate{display:{color:255},Enchantments:[{id:protection,lvl:2},{id:vanishing_curse,lvl:1}],Unbreakable:1b}
-replaceitem entity @e[type=player,team=blue_team] armor.head leather_helmet{display:{color:255},Enchantments:[{id:protection,lvl:2},{id:vanishing_curse,lvl:1}],Unbreakable:1b}
 give @a[team=blue_team] minecraft:blue_stained_glass 15
 # Red armor
-replaceitem entity @e[type=player,team=red_team] armor.feet leather_boots{display:{color:16711680},Enchantments:[{id:protection,lvl:2},{id:vanishing_curse,lvl:1}],Unbreakable:1b}
-replaceitem entity @e[type=player,team=red_team] armor.legs leather_leggings{display:{color:16711680},Enchantments:[{id:protection,lvl:2},{id:vanishing_curse,lvl:1}],Unbreakable:1b}
-replaceitem entity @e[type=player,team=red_team] armor.chest leather_chestplate{display:{color:16711680},Enchantments:[{id:protection,lvl:2},{id:vanishing_curse,lvl:1}],Unbreakable:1b}
-replaceitem entity @e[type=player,team=red_team] armor.head leather_helmet{display:{color:16711680},Enchantments:[{id:protection,lvl:2},{id:vanishing_curse,lvl:1}],Unbreakable:1b}
 give @a[team=red_team] minecraft:red_stained_glass 15
 # Global
 give @a minecraft:baked_potato 5
