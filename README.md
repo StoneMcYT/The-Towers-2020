@@ -2,3 +2,7 @@
 
 
 Upgading the towers map found on https://www.minecraftmaps.com/pvp-maps/the-towers-2020 to 1.19
+
+
+
+This is not an OFFICAL map full credit goes to the original author 
