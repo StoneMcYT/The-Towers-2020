@@ -18,7 +18,3 @@ Update 1.2 :
 - Evokers cannot drop Totems of Undying
 - Loot tables managed for better block stacking (example : quartz stairs and walls drop quartz blocks etc...)
 - Small corrections
-
-
-Update 1.3:
-- upgrading to 1.19 by updating replaceitem to item replace and the syntax for it 
